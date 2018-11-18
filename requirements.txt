@@ -1,0 +1,2 @@
+pyglet==1.3.2
+PyWavefront==0.3.2
